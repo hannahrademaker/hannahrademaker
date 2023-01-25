@@ -2,7 +2,6 @@
 
 - 😄 Pronouns: she / her
 - 🌱 Graduate of Fullstack Academy's 2207 (2022) cohort
-- 🔭 Currently learning Python
 - 📫 Email me at hannahcrademaker@gmail.com
 - ⚡ Fun fact: I am a singer/songwriter! 
 
