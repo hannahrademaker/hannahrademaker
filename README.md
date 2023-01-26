@@ -1,7 +1,8 @@
-<h1 align="center"> Hi, I'm Hannah! </h1>
+<h1 align="center"> Hi, I'm Hannah! 👋🏼 </h1>
 
 - 😄 Pronouns: she / her
 - 🌱 Graduate of Fullstack Academy's 2207 (2022) cohort
+- 📄 Know about my experiences on my resume
 - 📫 Email me at hannahcrademaker@gmail.com
 - ⚡ Fun fact: I am a singer/songwriter! 
 
@@ -22,6 +23,6 @@
 
 [![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahrademaker)](https://github.com/hannahrademaker/github-readme-stats)
 <!--
-📄 Know about my experiences on my resume
+
 
 -->
