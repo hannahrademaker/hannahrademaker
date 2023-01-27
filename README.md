@@ -21,8 +21,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hannahrademaker&" alt="hannahrademaker" /></p>
 
-[![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahrademaker)](https://github.com/hannahrademaker/github-readme-stats)
-<!--
-
-
--->
