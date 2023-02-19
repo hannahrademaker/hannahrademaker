@@ -1,6 +1,5 @@
 <h1 align="center"> Hi, I'm Hannah! 👋🏼 </h1>
 
-- 😄 Pronouns: she / her
 - 🌱 Graduate of Fullstack Academy's 2207 (2022) cohort
 - 📄 Know about my experiences on my resume
 - 📫 Email me at hannahcrademaker@gmail.com
